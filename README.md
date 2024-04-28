@@ -61,6 +61,6 @@
   By using statistical analysis, we were able to find that the wingspan was the only significant factor in the flight time of a paper airplane, as well as the presence of a wing, and that length and power alone did not have a statistically significant impact on the flight time. Additionally, we found that the launch power and wingspan did have a **significant interaction**, where changing one factor changes how the other affects the flight time.
 	In the future, many more experiments could be conducted on this topic. The launch angle or height could be investigated, as well as the size of the paper used to construct the plane. Different designs of paper airplanes could also be compared, which would then lead to the analysis of which aspects of the design affected the airtime. Distance traveled could be a new response factor to analyze, which would need to be analyzed carefully to account for things like drifting off course or travel time while on the ground. Lastly, this experiment could be run again with more improvements, such as a timing system not based on human reaction time, a more robust and controlled launch mechanism, and a larger sample size with multiple different airplanes constructed for each treatment.
 
- Below is the results of the trials: 
+ ##Below are the results of the trials: 
 
  ![Airplane Results](/assets/img/airplaneresults.png)
