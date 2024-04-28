@@ -17,12 +17,12 @@
 - Analyzed competitor’s customer journey through CTR (Click Through Rates), average view duration, and engagement, leading to development of strategic initiatives such as demo product videos, customer surveys, and amplified social media presence
 
 ## Projects
-###Airplane Flight Trajectory | R, Python,  Linear Regression, Data Visualization
+### Airplane Flight Trajectory | R, Python,  Linear Regression, Data Visualization
 - Conducted 12 randomized experiments, altering wing length, width, and power to evaluate the variable impact on aerodynamics
 - Optimized flight efficiency utilizing R to create 3-way interaction, ANOVA, hypothesis and power testing for airplane components
 
 
-###Fake Versus. Real News | Python, Pandas, Seaborn, Sckit Learn, NLKT, Deep Learning 
+### Fake Versus. Real News | Python, Pandas, Seaborn, Sckit Learn, NLKT, Deep Learning 
 - Employed a range of data science and machine learning methods to identify fake versus real news using global news and article headlines 
 - Boosted test accuracy by 44% through an ensemble approach that integrates random forest, MLP classifier, and logistic regression 
 
