@@ -3,7 +3,7 @@
 ### Technical Skills: Python, Java, SQL, R, C++, Pandas, MATLAB, ML, Matplotlib, Seaborn, Scikit-learn, NLTK
 
 ## Education
-**UC Berkeley Data Science (_May 2024_)
+**UC Berkeley Data Science (_May 2024_)**
 
 ## Work Experience
 **Market Analyst @ Clorox (_January 2023 - May 2023_)**
