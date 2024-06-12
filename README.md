@@ -16,6 +16,8 @@
 - Aggregated data across 14 Chinese cleaning competitors social media platforms and over 1000 videos, evaluating successful marketing trends to develop strategies and conduct plans to reach a larger audience segmentation 
 - Analyzed competitor’s customer journey through CTR (Click Through Rates), average view duration, and engagement, leading to development of strategic initiatives such as demo product videos, customer surveys, and amplified social media presence
 
+
+
 ## Projects
 ### The Effect of Airplane Construction on Flight Time | R, Python,  Linear Regression, Data Visualization
 
